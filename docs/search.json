@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T18:26:16-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "GF0604 Procesamiento de datos geográficos 2021-I. Lección 02",
+      "description": "Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica. Primer ciclo lectivo 2021. Lección 02.\n",
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
+      "contents": "\r\n\r\nContents\r\nResumen\r\nContenidos\r\n\r\nResumen\r\nEn esta lección, se presenta una introducción a la arquitectura de computadoras y a los lenguajes de programación.\r\nContenidos\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-09T18:39:51-06:00"
+    }
+  ],
+  "collections": []
+}
