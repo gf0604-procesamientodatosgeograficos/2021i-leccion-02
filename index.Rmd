@@ -26,4 +26,4 @@ En esta lección, se presenta una introducción a la arquitectura de computadora
 
 # Contenidos
 
-<!-- [01 Introducción al pensamiento computacional](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-01-introduccion-pensamiento-computacional/) -->
+[01 Arquitectura de computadoras y lenguajes de programación](https://gf0604-procesamientodatosgeograficos.github.io/2021i-leccion-02-arquitectura-computadoras-lenguajes-programacion/)
