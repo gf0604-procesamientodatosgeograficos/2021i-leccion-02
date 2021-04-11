@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Resumen
-En esta lección, se presenta una introducción a la arquitectura de computadoras y a los lenguajes de programación.
+En esta lección, se presenta una introducción a la arquitectura de computadoras y a los lenguajes de programación. Se realiza una síntesis de los desarrollos prácticos y teóricos más importantes de la historia de la computación, incluyendo las primeras computadoras, la máquina de Turing y la arquitectura de von Neumann. Finalmente se describen el lenguaje máquina y los lenguajes de programación.
 
 # Contenidos
 
